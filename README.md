@@ -6,3 +6,6 @@
 - 网易云音乐：[NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
 - qq音乐：[QQMusicApi](https://github.com/jsososo/QQMusicApi)
 - 咪咕音乐：[MiguMusicApi](https://github.com/JumpAlang/MiguMusicApi)
+
+# tools
+- 一款音频播放神器：[howler.js](https://github.com/goldfire/howler.js)
